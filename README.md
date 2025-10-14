@@ -1,4 +1,3 @@
 - 👋 Hello! I'm Bui Minh Nhat
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: aomine002622@gmail.com
--->
