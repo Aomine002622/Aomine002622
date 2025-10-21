@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Bui Minh Nhat
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: aomine002622@gmail.com
+- Hello! I'm Bui Minh Nhat
+- I’m currently learning Web Development
+- Reach me by: aomine002622@gmail.com
 - Github: https://github.com/Aomine002622
