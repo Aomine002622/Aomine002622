@@ -9,7 +9,7 @@ ____________________________________________
 
 Đồ án cuối khóa (Course Project)
 - Đề tài: Hệ thống Quản lý đặt phòng khách sạn trực tuyến.
-• Nội dung bắt buộc:
+- Nội dung:
 1. Project Definition + SRS (tài liệu).
 2. UML Models: Use Case, Activity, Class, Sequence, ERD, DFD.
 3. Project Plan + Risk Management.
