@@ -8,10 +8,7 @@ ____________________________________________
 ____________________________________________
 
 Đồ án cuối khóa (Course Project)
-• Yêu cầu:
-o Mỗi nhóm (2-3 sinh viên) phát triển một ứng dụng web theo quy trình đã
-học.
-o đề tài: Hệ thống Quản lý đặt phòng khách sạn trực tuyến.
+- Đề tài: Hệ thống Quản lý đặt phòng khách sạn trực tuyến.
 • Nội dung bắt buộc:
 1. Project Definition + SRS (tài liệu).
 2. UML Models: Use Case, Activity, Class, Sequence, ERD, DFD.
