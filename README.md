@@ -1,7 +1,6 @@
 Software Engineering – PTIT
 ____________________________________________
 
-Thông tin sinh viên
 - Họ tên: Bùi Minh Nhật
 - MSSV: K23DTCN301
 - Lớp: D23TXCN06-K
