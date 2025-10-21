@@ -18,7 +18,3 @@ ____________________________________________
 6. Quản lý cấu hình (GitHub/SVN).
 7. Testing + Report.
 8. Deploy demo (Heroku, Azure, Xampp hoặc server nội bộ).
-• Kết quả nộp:
-o Tài liệu tổng hợp (PDF).
-o Source code + DB script (GitHub).
-o Báo cáo demo & test.
